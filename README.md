@@ -36,14 +36,13 @@ Un bot Discord complet avec 9 modules : modération, musique, niveaux, tickets, 
 ### Prérequis
 
 - Python 3.10+
-- `ffmpeg` installé sur la machine (pour la musique)
 - Un token de bot Discord
 
 ### Étapes
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/ton-pseudo/ton-bot.git
+git clone https://github.com/lucas6c73/discord_bot-Nyan_Cat/
 cd ton-bot
 
 # 2. Installer les dépendances
