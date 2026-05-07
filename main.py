@@ -38,6 +38,7 @@ COGS = [
     "cogs.levels",
     "cogs.vocal_prive",
     "cogs.autoroles",
+    "cogs.backup",
 ]
 
 CLASHS = [
